@@ -8,4 +8,5 @@ JWT_PASSWORD =
 
 -récupérer le front end faire un npm start du front
 
--faire un npm start
+-faire un npm start du back end
+-ouvrir le projet sur un navigateur au lien suivant : http://localhost:4200/
